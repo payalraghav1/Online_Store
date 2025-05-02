@@ -1,18 +1,16 @@
-Inventory and Order Management System
-Overview
-A simple yet efficient Inventory and Order Management System designed to track products, manage stock levels, and handle transactions seamlessly.
+## Inventory and Order Management System
 
-Features
-📦 Product Catalog: Maintains product details including name, category, price, and real-time stock tracking.
+### Overview
+A simple and efficient Inventory and Order Management System designed to track products, manage stock levels, and handle transactions seamlessly.
 
-🧾 Billing System: Calculates bills accurately based on customer orders and current stock levels.
+### Features
+- 📦 **Product Catalog**: Maintains product details including name, category, price, and real-time stock tracking.
+- 🧾 **Billing System**: Calculates bills accurately based on customer orders and current stock levels.
+- 🔄 **Order Processing**: Handles order placement and updates stock dynamically after each transaction.
 
-🔄 Order Processing: Handles order placement and updates stock dynamically after each transaction.
+### Tech Stack
+- Programming Language: C++ 
+- Tools/Libraries: Standard Template Library (STL)
 
-Tech Stack
-Programming Language: C++ / Java / Python (replace with your language)
-
-Tools: Any libraries or frameworks you used
-
-Purpose
-This project was built to simulate real-world inventory and billing systems, ideal for learning backend logic and data management techniques.
+### Purpose
+This project was developed to simulate a real-world inventory and billing workflow. It helps in understanding core backend concepts like data structures, control flow, and file handling (if used).
