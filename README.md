@@ -14,3 +14,11 @@ A simple and efficient Inventory and Order Management System designed to track p
 
 ### Purpose
 This project was developed to simulate a real-world inventory and billing workflow. It helps in understanding core backend concepts like data structures, control flow, and file handling (if used).
+
+## Main Functionalitiies 
+1.Initializes a product catalog and stock
+2.Creates a customer order
+3.Adds products to the order
+4.Displays available products
+5.Displays order summary and total bill
+6.Updates and displays product stock
