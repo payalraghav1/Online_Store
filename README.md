@@ -11,14 +11,15 @@ A simple and efficient Inventory and Order Management System designed to track p
 ### Tech Stack
 - Programming Language: C++ 
 - Tools/Libraries: Standard Template Library (STL)
+- Map,pair,ctime,string
 
 ### Purpose
 This project was developed to simulate a real-world inventory and billing workflow. It helps in understanding core backend concepts like data structures, control flow, and file handling (if used).
 
 ## Main Functionalitiies 
-1.Initializes a product catalog and stock
-2.Creates a customer order
-3.Adds products to the order
-4.Displays available products
-5.Displays order summary and total bill
-6.Updates and displays product stock
+- Initializes a product catalog and stock
+- Creates a customer order
+- Adds products to the order
+- Displays available products
+- Displays order summary and total bill
+- Updates and displays product stock
